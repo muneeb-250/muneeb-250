@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muneeb Ur Rehman</h1>
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </p>
+<span> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </span>
 
-<p align="left"> <a href="https://twitter.com/0xmuneeb" target="blank"><img src="https://img.shields.io/twitter/follow/0xmuneeb?logo=twitter&style=for-the-badge" alt="0xmuneeb" /></a> </p>
+<a href="https://twitter.com/0xmuneeb" target="blank"><img src="https://img.shields.io/twitter/follow/0xmuneeb?logo=twitter&style=for-the-badge" alt="0xmuneeb" /></a>
+
+<a href="https://linkedin.com/in/muneeburrehman250" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="0xmuneeb" /></a>
+<a href="https://goodreads.com/0xmuneeb" target="blank"><img align="center" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="0xmuneeb" /></a>
+<a href="https://www.hackerrank.com/muneeburrehman21" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="0xmuneeb" /></a>
+<a href="https://codepen.io/muneeb250" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="0xmuneeb" /></a>
 
 - 🌱 I’m currently learning **Ethereum development 🚀**
 
