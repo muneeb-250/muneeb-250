@@ -2,9 +2,9 @@
 <div style="width: 100%; margin:auto;">
   <img src="name.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
-<h3 align="center">A passionate Web3 developer from Pakistan</h3>
-
+<div style="width: 100%; margin:auto;">
+  <img src="intro.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 <span> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </span>
 
 <a href="https://twitter.com/0xmuneeb" target="blank"><img src="https://img.shields.io/twitter/follow/0xmuneeb?logo=twitter&style=for-the-badge" alt="0xmuneeb" /></a>
