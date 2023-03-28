@@ -1,8 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="./style.css">
-</head>
-
-<h1 class="neon"> My Neon Text </h1>  
 <h1 align="center" class="neon">Hi 👋, I'm Muneeb Ur Rehman</h1>
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
 
