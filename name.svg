@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .neon {
+    animation: neonAnim 2s alternate-reverse infinite;
+    color: #00FFE3;
+    font-family: Bahnschrift;
+    font-size: 72px;
+}
+@keyframes neonAnim {
+    from {
+        text-shadow:
+          0 0 10px rgba(0, 255, 227, .7),
+          0 0 40px rgba(0, 255, 227, .7),
+          0 0 100px rgba(0, 255, 227, .7);
+      }
+      to {
+        text-shadow:
+          0 0 5px rgba(0, 255, 227, .7),
+          0 0 20px rgba(0, 255, 227, .7),
+          0 0 60px rgba(0, 255, 227, .7);
+      }
+}
+      </style>
+
+      <div class="neon">
+    Muneeb Ur Rehman
+      </div>
+    </div>
+  </foreignObject>
+</svg>
