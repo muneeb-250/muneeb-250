@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 600 250" width="500" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .neon {
+        animation: neonAnim 2s alternate-reverse infinite;
+        color: #E467F9;
+        font-family: Consolas;
+        font-size: 34px;
+    }
+    @keyframes neonAnim {
+    from {
+        text-shadow:
+          0 0 15px rgba(220, 81, 243, .7),
+          0 0 45px rgba(220, 81, 243, .7),
+          0 0 105px rgba(220, 81, 243, .7);
+      }
+      to {
+        text-shadow:
+          0 0 10px rgba(220, 81, 243, .7),
+          0 0 25px rgba(220, 81, 243, .7),
+          0 0 65px rgba(220, 81, 243, .7);
+      }
+}
+      </style>
+
+      <div class="neon">
+        <h4>A passionate Web3 developer from Pakistan</h4>
+</div>
+  </foreignObject>
+</svg>
