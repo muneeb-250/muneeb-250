@@ -1,7 +1,8 @@
-<div style="width: 100%;">
+<h1 align="center">Hi 👋, I am </h1>
+<div style="width: 100%; margin:auto;">
   <img src="name.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-<h1 align="center">Hi 👋, I'm Muneeb Ur Rehman</h1>
+
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
 
 <span> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </span>
