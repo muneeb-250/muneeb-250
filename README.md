@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muneeb Ur Rehman</h1>
+<head>
+  <link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+
+<h1 class="neon"> My Neon Text </h1>  
+<h1 align="center" class="neon">Hi 👋, I'm Muneeb Ur Rehman</h1>
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
 
 <span> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </span>
