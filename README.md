@@ -5,7 +5,7 @@
 <div style="width: 100%; margin:auto;">
   <img src="intro.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-<span> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </span>
+<span> <img src="https://komarev.com/ghpvc/?username=0xmuneeb&label=Profile%20views&color=0e75b6&style=flat" alt="0xmuneeb" /> </span>
 
 <a href="https://twitter.com/0xmuneeb" target="blank"><img src="https://img.shields.io/twitter/follow/0xmuneeb?logo=twitter&style=for-the-badge" alt="0xmuneeb" /></a>
 
@@ -36,9 +36,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneeb-250&theme=discord_old_blurple&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muneeb-250" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmuneeb&theme=discord_old_blurple&show_icons=true&locale=en&layout=compact&hide_border=true" alt="0xmuneeb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneeb-250&theme=discord_old_blurple&show_icons=true&locale=en&hide_border=true" alt="muneeb-250" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmuneeb&theme=discord_old_blurple&show_icons=true&locale=en&hide_border=true" alt="0xmuneeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb-250&theme=discord_old_blurple&hide_border=true" alt="muneeb-250" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xmuneeb&theme=discord_old_blurple&hide_border=true" alt="0xmuneeb" /></p>
 
